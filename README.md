@@ -22,3 +22,6 @@ Plan:
 
 资料地址：https://blog.csdn.net/SpecialLinker/article/details/106793082
 
+## 12.7 -- 12.8
+Done：略读了《特征工程入门与实践》，以下是outline
+[image](https://github.com/Wilbur0626/kaggle_notes/blob/main/docs/1.png)
