@@ -5,6 +5,8 @@
 
 项目地址：https://www.kaggle.com/competitions/titanic/
 
+------------------------------------------
+
 12.4 -- 12.6
 
 Done:
@@ -13,4 +15,4 @@ Done:
 2. 模型part， 使用SVM+sigmoid（之前使用过的二分类网络）
 3. 结果：训练验证正确率0.85，但上传后结果是top88%，效果很差
 
-
+Plan
