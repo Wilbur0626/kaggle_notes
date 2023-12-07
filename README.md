@@ -14,7 +14,7 @@ Done:
 2. 模型part， 使用SVM+sigmoid（之前使用过的二分类网络）
 3. 结果：训练验证正确率0.85，上传后准确率0.75,top88%，效果很差, 减小网络深度和宽度之后，准确率0.77, top78%
 ## 12.7 -- 12.8
-Done：略读了《特征工程入门与实践》，以下是outline
+Done：略读了《特征工程入门与实践》，以下是overview
 ![image](https://github.com/Wilbur0626/kaggle_notes/blob/main/docs/1.png)
 ## Plan for next week 
 1. 继续学习特征工程；
