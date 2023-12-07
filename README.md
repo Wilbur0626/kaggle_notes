@@ -1,9 +1,10 @@
 #Study Recording
 
-##Goal: Skill in data preprocessing & basic-task model buiding 
-##Method: Study from practicing projects on kaggle 
+Goal: Skill in data preprocessing & basic-task model buiding 
+
+Method: Study from practicing projects on kaggle 
 ------------------------------------------
-#For myself: Better late than never
+For myself: Better late than never
 ------------------------------------------
 
 # 2023/12/4 -- 2023/12/8 （12月第一周）
