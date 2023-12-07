@@ -16,4 +16,7 @@ Done:
 2. 模型part， 使用SVM+sigmoid（之前使用过的二分类网络）
 3. 结果：训练验证正确率0.85，但上传后结果是top88%，效果很差
 
-Plan
+Plan:
+
+1. 数据part，借鉴网络资料重新进行feature engineering
+
