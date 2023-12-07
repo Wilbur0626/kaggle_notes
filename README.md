@@ -18,7 +18,7 @@ Done:
 
 Plan:
 
-1. 根据网络资料重新梳理数据part和多模型建立
+1. 根据以下资料复线1. 数据预处理part 2. 模型建立part
 
 资料地址：https://blog.csdn.net/SpecialLinker/article/details/106793082
 
