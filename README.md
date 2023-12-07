@@ -4,3 +4,6 @@
 准备着手完成kaggle新手项目：titanic
 
 项目地址：https://www.kaggle.com/competitions/titanic/
+
+12.4 -- 12.6
+  1. 
