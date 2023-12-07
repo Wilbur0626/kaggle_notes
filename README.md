@@ -17,4 +17,7 @@ Done:
 ## 12.7 -- 12.8
 Done：略读了《特征工程入门与实践》，以下是outline
 ![image](https://github.com/Wilbur0626/kaggle_notes/blob/main/docs/1.png)
-## 12.7 -- 12.8
+## Plan for next week 
+1. 继续学习特征工程；
+2. 学习《python数据科学手册》，该书讲述了一些库和函数用于特征工程
+   https://github.com/zhixingchou/BooksPDF/blob/master/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6/Python%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E6%89%8B%E5%86%8C.pdf
