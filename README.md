@@ -1,10 +1,12 @@
 # Study Recording
 
-## Goal: Skill in data preprocessing & basic-task model buiding 
+## Goal: 
+  Skill in data preprocessing & basic-task model buiding 
 
-## Method: Study from practicing projects on kaggle 
+## Method: 
+  Study from practicing projects on kaggle 
 
-# For myself: Better late than never
+## Better late than never!!
 
 ------------------------------------------
 
