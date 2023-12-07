@@ -18,7 +18,7 @@
 ## 12.4 -- 12.6
 Done:
 1. 数据part，保留Pclass,Sex，Age，Sibsp，Parch，Fare，对Age和Fare max-min归一化,用随机森林模型预测null值
-2. 模型part， 使用SVM+sigmoid（之前使用过的二分类网络）
+2. 模型part， 使用mlp+sigmoid（之前使用过的二分类网络）
 3. 结果：训练验证正确率0.85，上传后准确率0.75,top88%，效果很差, 减小网络深度和宽度之后，准确率0.77, top78%
 ## 12.7 -- 12.8
 Done：略读了《特征工程入门与实践》，以下是overview
