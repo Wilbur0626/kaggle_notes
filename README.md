@@ -22,7 +22,9 @@ Done:
 3. 结果：训练验证正确率0.85，上传后准确率0.75,top88%，效果很差, 减小网络深度和宽度之后，准确率0.77, top78%
 4. 略读了《特征工程入门与实践》，总结了review:
 ![image](https://github.com/Wilbur0626/kaggle_notes/blob/main/docs/1.png)
-## Plan for next week 
+
+Plan for next week 
+
 1. 继续学习特征工程；
 2. 学习《python数据科学手册》，该书讲述了一些库和函数用于特征工程
   https://github.com/wangyingsm/Python-Data-Science-Handbook 
