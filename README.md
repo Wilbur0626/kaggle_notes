@@ -29,3 +29,6 @@ Plan for next week
 2. 学习《python数据科学手册》，该书讲述了一些库和函数用于特征工程
   https://github.com/wangyingsm/Python-Data-Science-Handbook 
 3. 学习过程中对titanic数据集处理并记录阶段性结果
+
+
+# 2023/12/11 -- 2023/12/15 （12月第二周）
