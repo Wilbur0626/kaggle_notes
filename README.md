@@ -37,6 +37,6 @@ Done:
 
 Remarks:
 1. 这周主要在忙工作上的事，hold了四天plan。
-2. during工作，学习了Computational Image，深深感受到现在的网络trick迭代频繁，需要学习更近的内容也很多。
+2. during工作，学习了Computational Image，深深感受到现在的网络trick迭代频繁，需要学习跟进的内容也很多。
 
 
